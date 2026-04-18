@@ -24,14 +24,15 @@
 
 ## 📌 Sobre mim
 
-Sou apaixonado por tecnologia e estou sempre buscando evoluir como desenvolvedor.<br>
-Atualmente focado em aprofundar meus conhecimentos em redes, desenvolvimento web e cibersegurança.
+Sou apaixonado por tecnologia e estou sempre buscando evoluir.<br>
+Atualmente focado em aprofundar meus conhecimentos em redes, desenvolvimento e cibersegurança.
 
 ---
 
 ## 📫 Contato
 
 * GitHub: https://github.com/lfcp2002
+* Linkedin: https://www.linkedin.com/in/luis-felipe-campos-63a564262
 
 ---
 
