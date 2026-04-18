@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Luis Felipe
+# 👋 Olá, eu sou Luis Felipe <img src="img/gif.gif" width="40">
 
 💻 Software Engineering Student | JavaScript | Python | Computer Networks | Cybersecurity <br>
 📍 Minas Gerais, Brasil
@@ -36,4 +36,4 @@ Atualmente focado em aprofundar meus conhecimentos em redes, desenvolvimento e c
 
 ---
 
-⭐ Obrigado pela Atenção!
+⭐ Obrigado pela atenção!
