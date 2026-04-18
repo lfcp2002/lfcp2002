@@ -1,7 +1,6 @@
 # 👋 Olá, eu sou Luis Felipe
 
-💻 Software Engineering Student | JavaScript | Python | Computer Networks | Cybersecurity
-📍 Minas Gerais, Brasil
+💻 Software Engineering Student | JavaScript | Python | Computer Networks | Cybersecurity 📍 Minas Gerais, Brasil
 
 ---
 
@@ -24,8 +23,7 @@
 
 ## 📌 Sobre mim
 
-Sou apaixonado por tecnologia e estou sempre buscando evoluir.
-Atualmente focado em aprofundar meus conhecimentos em redes, desenvolvimento e cibersegurança.
+Sou apaixonado por tecnologia e estou sempre buscando evoluir como desenvolvedor. Atualmente focado em aprofundar meus conhecimentos em redes, desenvolvimento web e cibersegurança.
 
 ---
 
@@ -35,4 +33,4 @@ Atualmente focado em aprofundar meus conhecimentos em redes, desenvolvimento e c
 
 ---
 
-⭐ SObrigado pela Atenção!
+⭐ Obrigado pela Atenção!
