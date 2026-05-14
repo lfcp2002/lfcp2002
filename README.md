@@ -45,4 +45,4 @@ Linkedin: https://www.linkedin.com/in/luis-felipe-campos-63a564262
 
 ---
 
-⭐ Obrigado pela atenção!
+Obrigado pela atenção!
