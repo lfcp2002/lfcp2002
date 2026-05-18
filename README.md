@@ -39,7 +39,6 @@ Atualmente focado em aprofundar meus conhecimentos em redes, desenvolvimento e c
 ## 📫 Contato
 
 <p align="center">
-GitHub: https://github.com/lfcp2002 <br>
 Linkedin: https://www.linkedin.com/in/luis-felipe-campos-63a564262
 </p>
 
