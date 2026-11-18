@@ -31,7 +31,7 @@
 
 <p align="center">
 Sou apaixonado por tecnologia e estou sempre buscando evoluir.<br>
-Atualmente focado em aprofundar meus conhecimentos em redes, desenvolvimento e cibersegurança.
+Atualmente focado em aprofundar meus conhecimentos em IA, desenvolvimento e Machine learning.
 </p>
 
 ---
